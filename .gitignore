@@ -1,0 +1,44 @@
+# Virtual environment
+venv/
+env/
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python-related
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Database files
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+*.env
+
+# Alembic migrations
+migrations/
+
+# Node.js (if applicable)
+node_modules/
+package-lock.json
+
+# Docker
+*.dockerignore
+docker-compose.override.yml

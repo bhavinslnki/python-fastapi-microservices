@@ -9,7 +9,7 @@ This authentication service is built using Python and FastAPI. It provides user 
 
 ### 1. Clone the Repository
 ```sh
-$ git clone https://github.com/your-repo/auth-service.git
+$ git clone https://github.com/bhavinslnki/python-fastapi-microservices.git
 $ cd auth-service
 ```
 
